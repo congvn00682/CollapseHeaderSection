@@ -2,7 +2,7 @@
 //  SectionHeaderView.swift
 //  CollapseHeaderSection
 //
-//  Created by Chung on 5/29/18.
+//  Created by Yamate on 8/20/18.
 //  Copyright © 2018 Chung. All rights reserved.
 //
 
